@@ -69,13 +69,13 @@ Heat map is one of the best features that I liked the most on the platform, when
 
 ![|624x347](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfPmrUB42gz4uCxjwVAGV0nyUwyYMM-TSBbyuu77ki09EM9Hv8yVVSoPtLZ2pLo1hB6_Qhyxl_uUNIalZoAM2c8Ys0UqjJpsT33Nyu2WHqsBymgb2NFMBLOKdEIqkRxk9IOD7CU6Q?key=O7N3j3b6y_XD6j2gLs-049yk)
 
-### It always gives me a visual snapshot of stock market performance, making it easy to spot trends at a glance.
+It always gives me a visual snapshot of stock market performance, making it easy to spot trends at a glance.
 
 By using color-coded signals, red means the sector or the stock is in a downtrend, green means the the sector or stock is in an uptrend.
 
 I was also able to check performance across different regions, using the global stock market heat map, and it shows you data blazingly fast.
 
-#### Key Insights from Heat Maps:
+Key Insights from Heat Maps:
 
 ✔ Stock Pricing – Identify undervalued or overvalued stocks
 ✔ Trading Volume – Spot where the action is happening
