@@ -82,7 +82,7 @@ Key Insights from Heat Maps:
 ✔ Dividends – See which companies offer the best returns
 ✔ Analyst Ratings – Gauge expert opinions on stocks
 
-### Interestingly, many stocks receive positive analyst ratings, which makes me wonder are these experts overly optimistic.
+Interestingly, many stocks receive positive analyst ratings, which makes me wonder are these experts overly optimistic.
 
 The real advantage? Instant access to stock details, a simple click opens a deeper dive, allowing me to explore trends and uncover fresh trading ideas effortlessly.
 
