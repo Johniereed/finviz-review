@@ -48,29 +48,81 @@ I started with the Finviz free version at first, then I slowly moved to the Elit
 
 After upgrading my plan, get access to more advanced tools such as:
 
-### 1. Stock Screener
+### 1. Finding Great Stocks with Screeners
 
-Finviz's stock screener is one of its most powerful features and my favorite one.
+Stock screeners are my go-to tools for discovering promising investments, They give me the ability to filter through thousands of stocks based on specific I mention criteria, and they help me narrow down the best opportunities in seconds.
 
-It allows me to filter stocks based on over 67 financial, technical, and descriptive criteria, this means you can refine your search based on metrics like market capitalization, P/E ratio, dividend yield, RSI, moving averages, earnings per share (EPS) growth, and sector-specific data.
+Many other popular screeners cover 8,500+ major stocks and ETFs, which is a massive selection though not quite the full 10,000+ stocks in the U.S. market.
 
-This level of filtering ensures the identification of stocks that align with investors’ specific investment strategies, whether it's value investing, growth investing, or technical trading.
+However, for most traders, that’s more than enough to find great picks.
 
-You can set a custom preset filter, that saves your time if you frequently analyze stocks with similar parameters.
+How I Filter Stocks:
 
-## 2. Heat Maps
+✔ Fundamental Metrics – Price, market cap, P/E ratio, EPS & revenue growth, debt levels, dividend yield
+✔ Technical Indicators – 52-week highs/lows, moving averages, oversold/overbought conditions, chart patterns
 
-Finviz’s heat map gives you a comprehensive visual snapshot of market performance covering different sectors and industries.
+The best part? Precision filtering. Whether I’m looking for undervalued stocks, high-growth companies, or technical breakouts, screeners give me the power to fine-tune my search and spot winning trades with confidence.
 
-![|624x345](https://lh7-rt.googleusercontent.com/docsz/AD_4nXftAaYs4YY7haALjTSFFE7XYJQHONsgy0Z3IjoO01Z-aDVziCbO7FtqO8B50j72kG-DBa5fkOFca8HmmGUiijeh82ABbblgdkt7KtGBZJgEiItgH67bANmZW__MZK4OQSyMBGMh?key=O7N3j3b6y_XD6j2gLs-049yk)
+### 2. Finviz Heat Map Review
 
-The color-coded system (typically green for gains and red for losses) allows traders to quickly identify trends at a glance.
+### Heat map is one of the best features that I liked the most on the platform, whenever I need the Market mood at a glance, I get it from just looking at the heat map.
 
-If you want to create sector rotation strategies and want to shift your capital between strong-performing and underperforming sectors.
+![|624x347](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfPmrUB42gz4uCxjwVAGV0nyUwyYMM-TSBbyuu77ki09EM9Hv8yVVSoPtLZ2pLo1hB6_Qhyxl_uUNIalZoAM2c8Ys0UqjJpsT33Nyu2WHqsBymgb2NFMBLOKdEIqkRxk9IOD7CU6Q?key=O7N3j3b6y_XD6j2gLs-049yk)
 
-The market-wide, sector-specific, and index-based heat maps help in spotting momentum trends and market sentiment, making them valuable for both short-term traders and long-term investors.
+### It always gives me a visual snapshot of stock market performance, making it easy to spot trends at a glance.
 
-### 3. Charting Tools
+### By using color-coded signals, red means the sector or the stock is in a downtrend, green means the the sector or stock is in an uptrend.
+
+I was also able to check performance across different regions, using the global stock market heat map, and it shows you data blazingly fast.
+
+#### Key Insights from Heat Maps:
+
+### ✔ Stock Pricing – Identify undervalued or overvalued stocks
+✔ Trading Volume – Spot where the action is happening
+✔ Dividends – See which companies offer the best returns
+✔ Analyst Ratings – Gauge expert opinions on stocks
+
+### Interestingly, many stocks receive positive analyst ratings, which makes me wonder are these experts overly optimistic.
+
+### The real advantage? Instant access to stock details, a simple click opens a deeper dive, allowing me to explore trends and uncover fresh trading ideas effortlessly.
+
+### 3. Stock Sector Performance
+
+The Groups tab is an incredibly useful tool for understanding how different sectors and industries are performing.
+
+It gives me a bird’s-eye view of the market, helping me identify which areas are heating up and which are cooling down.
+
+One of my favorite things about this tool is the ability to analyze trends over different timeframes, it doesn’t matter whether I want to look at daily, weekly, or monthly performance, I can quickly spot emerging opportunities.
+
+The real power? Drilling down into individual stocks. Once I see a strong-performing sector, I can zoom in to find specific stocks that align with the trend making it easier to discover high-potential trades.
+
+![|624x464](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUMtnpUQclkEWEIvvhpIkk5qvw-TTHGRHZpEvEI-eh6agE8lSpkfz5vhQ7ds_ZE5Ed1FkNhe-L8oqlHgsmIt-Q4yGeTlW_7tflP0OLajB_I336LR866y9ivkhEV8NzgbsOj96-uA?key=O7N3j3b6y_XD6j2gLs-049yk)
+
+### 4. Portfolios
+
+If you can't track your investments there is no point in having a financial tool, with Finviz I was easily able to monitor stocks I’m interested in.
+
+While it’s not a full portfolio management tool, it’s a straightforward and effective way to keep tabs on potential trades.
+
+It allows me to save my stocks from searches and organize them into a watchlist, allowing me to track their performance and see the latest news in one place.
+
+It’s a simple yet powerful feature that helps me stay informed without any clutter.
+
+The best part? Instant updates. Whether I’m watching a breakout stock or waiting for the right entry point, having all my key stocks in one view makes decision-making faster and easier.
+
+### 5. Crypto and Forex on Finviz
+
+Finviz offers crypto and forex heatmaps, but they’re pretty basic, with just 15 cryptocurrencies and 12 forex pairs, the selection feels limited.
+
+One useful feature is that the charts are clickable, allowing me to dive deeper into individual assets.
+
+However, I can’t save notes or customize settings, which makes tracking harder.
+
+The downside? No performance data for cryptos and a bare-bones forex section without news or analysis.
+
+It’s a decent starting point, but for serious trading, I’d need more comprehensive insights.
+
+### 6. Charting Tools
 
 Finviz's charting tools are best for technical analysis of a particular stock and it is widely used by technical analysts due to their built-in pattern recognition, overlays, and indicators.
 
@@ -82,7 +134,7 @@ It shows you indicators like moving averages, Bollinger Bands, MACD, and RSI, wh
 
 However, Finviz lacks advanced customization compared to TradingView or ThinkorSwim, but its simplicity and ease of use make it ideal if you want to do a quick market scan.
 
-### 4. News Aggregation
+### 7. News Aggregation
 
 Finviz provides you with real-time financial news from major trusted sources such as Bloomberg, CNBC, Reuters, and MarketWatch.
 
@@ -155,80 +207,6 @@ My journey on the Finviz platform has been largely positive, I never find any di
 The best part is I didn’t have to download any software, since everything is cloud-based it offered me exceptional speed with robust security.
 
 Every time when I want to look at my Finviz dashboard, I just have to open my laptop’s browser and the program fires up.​
-
-### Finviz Heat Map Review
-
-Heat map is one of the best features that I liked the most on the platform, whenever I need the Market mood at a glance, I get it from just looking at the heat map.
-
-![|624x347](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfPmrUB42gz4uCxjwVAGV0nyUwyYMM-TSBbyuu77ki09EM9Hv8yVVSoPtLZ2pLo1hB6_Qhyxl_uUNIalZoAM2c8Ys0UqjJpsT33Nyu2WHqsBymgb2NFMBLOKdEIqkRxk9IOD7CU6Q?key=O7N3j3b6y_XD6j2gLs-049yk)
-
-It always gives me a visual snapshot of stock market performance, making it easy to spot trends at a glance.
-
-By using color-coded signals, red means the sector or the stock is in a downtrend, green means the the sector or stock is in an uptrend.
-
-I was also able to check performance across different regions, using the global stock market heat map, and it shows you data blazingly fast.
-
-Key Insights from Heat Maps:
-
-✔ Stock Pricing – Identify undervalued or overvalued stocks
-✔ Trading Volume – Spot where the action is happening
-✔ Dividends – See which companies offer the best returns
-✔ Analyst Ratings – Gauge expert opinions on stocks
-
-Interestingly, many stocks receive positive analyst ratings, which makes me wonder are these experts overly optimistic.
-
-The real advantage? Instant access to stock details, a simple click opens a deeper dive, allowing me to explore trends and uncover fresh trading ideas effortlessly.
-
-### Finding Great Stocks with Screeners
-
-Stock screeners are my go-to tools for discovering promising investments, it gives me the ability to filter through thousands of stocks based on specific I mention criteria, and they help me narrow down the best opportunities in seconds.
-
-Many other popular screeners cover 8,500+ major stocks and ETFs, which is a massive selection though not quite the full 10,000+ stocks in the U.S. market.
-
-However, for most traders, that’s more than enough to find great picks.
-
-How I Filter Stocks:
-
-✔ Fundamental Metrics – Price, market cap, P/E ratio, EPS & revenue growth, debt levels, dividend yield
-✔ Technical Indicators – 52-week highs/lows, moving averages, oversold/overbought conditions, chart patterns
-
-The best part? Precision filtering. Whether I’m looking for undervalued stocks, high-growth companies, or technical breakouts, screeners give me the power to fine-tune my search and spot winning trades with confidence.
-
-### Stock Sector Performance
-
-The Groups tab is an incredibly useful tool for understanding how different sectors and industries are performing.
-
-It gives me a bird’s-eye view of the market, helping me identify which areas are heating up and which are cooling down.
-
-One of my favorite things about this tool is the ability to analyze trends over different timeframes, it doesn’t matter whether I want to look at daily, weekly, or monthly performance, I can quickly spot emerging opportunities.
-
-The real power? Drilling down into individual stocks. Once I see a strong-performing sector, I can zoom in to find specific stocks that align with the trend making it easier to discover high-potential trades.
-
-![|624x464](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUMtnpUQclkEWEIvvhpIkk5qvw-TTHGRHZpEvEI-eh6agE8lSpkfz5vhQ7ds_ZE5Ed1FkNhe-L8oqlHgsmIt-Q4yGeTlW_7tflP0OLajB_I336LR866y9ivkhEV8NzgbsOj96-uA?key=O7N3j3b6y_XD6j2gLs-049yk)
-
-### Portfolios
-
-If you can't track your investments there is no point in having a financial tool, with Finviz I was easily able to monitor stocks I’m interested in.
-
-While it’s not a full portfolio management tool, it’s a straightforward and effective way to keep tabs on potential trades.
-
-It allows me to save my stocks from searches and organize them into a watchlist, allowing me to track their performance and see the latest news in one place.
-
-It’s a simple yet powerful feature that helps me stay informed without any clutter.
-
-The best part? Instant updates. Whether I’m watching a breakout stock or waiting for the right entry point, having all my key stocks in one view makes decision-making faster and easier.
-
-### Crypto and Forex on Finviz
-
-Finviz offers crypto and forex heatmaps, but they’re pretty basic, with just 15 cryptocurrencies and 12 forex pairs, the selection feels limited.
-
-One useful feature is that the charts are clickable, allowing me to dive deeper into individual assets.
-
-However, I can’t save notes or customize settings, which makes tracking harder.
-
-The downside? No performance data for cryptos and a bare-bones forex section without news or analysis.
-
-It’s a decent starting point, but for serious trading, I’d need more comprehensive insights.
 
 ### Is Finviz Simple to Work With?
 
